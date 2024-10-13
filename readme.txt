@@ -1,12 +1,5 @@
-# Spirulina suppliers project
+Chifoumi game made during learning JavaScript.
 
-Project carried out as part of the Vue-js framework training program.
+https://elisaleroy-chifoumi.netlify.app/
 
-## Project Setup
-
-```sh
-npm install
-```
-## Link
-https://silver-torte-1ffe23.netlify.app/
-
+![Rock-Paper-Scissors](https://elisaleroy-chifoumi.netlify.app/)
